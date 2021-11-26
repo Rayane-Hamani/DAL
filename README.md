@@ -1,1 +1,1 @@
-# DAL-groupe3
+# DAL - Développement Agile des Logiciels

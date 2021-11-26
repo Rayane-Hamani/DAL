@@ -1,0 +1,1 @@
+<script src="<%= contextPath %>/js/bootstrap.min.js" type="text/javascript"></script>
